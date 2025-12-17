@@ -26,7 +26,7 @@ Enable real-time uniform detection using a webcam
 
 Store detected attendance records automatically
 
-🏗️ System Features
+System Features
 
 Upload an image and receive:
 
@@ -70,7 +70,7 @@ Monitor an attendance log generated in real time
 
 Screenshots of the interface and attendance log are included in the project report.
 
-📊 Evaluation Metrics
+Evaluation Metrics
 
 The model performance was evaluated using:
 
